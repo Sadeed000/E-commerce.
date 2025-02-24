@@ -25,7 +25,7 @@ app.use(fileupload({useTempFiles: true}))
 
 
 app.use(cors({
-  origin: "http://localhost:3000", 
+  origin: "https://e-commerce-xpcg.vercel.app", 
   credentials: true
 }));
 
