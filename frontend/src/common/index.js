@@ -1,4 +1,4 @@
-const backendDomin = "http://localhost:8000"
+const backendDomin = "https://e-commerce-ten-sable-18.vercel.app/"
 
 const SummaryApi = {
     signUP : {
